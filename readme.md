@@ -1,0 +1,1 @@
+Test création de sphere avec du texte en orbit
